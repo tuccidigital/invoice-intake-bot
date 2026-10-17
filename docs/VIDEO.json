@@ -1,0 +1,48 @@
+{
+  "idioma": "pt-BR",
+  "projeto": "P03 · Robô de Entrada de NF-e",
+  "ficticio": true,
+  "gancho": "600 notas por mês digitadas à mão num ERP sem API.",
+  "problema": {
+    "personagem": "Otávio Lima, Fiscal",
+    "texto": "Abrir o XML, conferir o pedido e digitar no ERP, nota por nota.",
+    "icones": ["Mail", "Receipt", "Search", "Clock"]
+  },
+  "processo": [
+    { "rotulo": "OUTLOOK", "titulo": "Nota chega por e-mail" },
+    { "rotulo": "POWER AUTOMATE", "titulo": "XML conferido com o pedido" },
+    { "rotulo": "TEAMS", "titulo": "Divergência avisada a Compras" },
+    { "rotulo": "RPA", "titulo": "Robô digita no ERP" }
+  ],
+  "telas": [
+    {
+      "arquivo": "gravacoes/caixa-entrada.mp4",
+      "moldura": "desktop",
+      "inicio": 0,
+      "fim": 6,
+      "destaques": [{ "t": 1.5, "x": 0.3, "y": 0.4, "texto": "20 notas chegando" }]
+    },
+    {
+      "arquivo": "gravacoes/robo-erp.mp4",
+      "moldura": "desktop",
+      "inicio": 0,
+      "fim": 14,
+      "destaques": [{ "t": 3, "x": 0.5, "y": 0.45, "texto": "Robô digitando no ERP" }, { "t": 11, "x": 0.4, "y": 0.85, "texto": "Lançamento gravado" }]
+    },
+    {
+      "arquivo": "gravacoes/teams-divergencia.mp4",
+      "moldura": "desktop",
+      "inicio": 0,
+      "fim": 6,
+      "destaques": [{ "t": 1.5, "x": 0.5, "y": 0.5, "texto": "Valor da nota, do pedido e a diferença" }]
+    }
+  ],
+  "resultado": [
+    "14 de 20 notas lançadas sem digitação",
+    "3 divergências avisadas com o motivo",
+    "Duplicada ignorada e registrada"
+  ],
+  "chamada": "Agende um diagnóstico em tuccidigital.com",
+  "audio": { "trilha": null, "locucao": null },
+  "legendas": "auto"
+}

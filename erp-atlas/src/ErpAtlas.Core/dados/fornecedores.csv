@@ -1,0 +1,16 @@
+Id;Nome;CNPJ;Categoria;PrazoPagamentoDias;Email
+1;Polimax Resinas;00.000.101/0001-99;Matéria-prima;28;comercial@polimax.example
+2;Granplast Compostos;00.000.138/0001-00;Matéria-prima;30;comercial@granplast.example
+3;Colorbatch Masterbatch;00.000.175/0001-99;Matéria-prima;28;comercial@colorbatch.example
+4;Embalagens Serra Azul;00.000.212/0001-00;Embalagem;21;comercial@embalagens.example
+5;Caixaforte Papelão;00.000.249/0001-99;Embalagem;21;comercial@caixaforte.example
+6;Moldtec Usinagem;00.000.286/0001-00;Peças e serviços;35;comercial@moldtec.example
+7;Hidrauflex Componentes;00.000.323/0001-99;Peças e serviços;30;comercial@hidrauflex.example
+8;Termocontrol Automação;00.000.360/0001-00;Peças e serviços;30;comercial@termocontrol.example
+9;Protege EPI;00.000.397/0001-99;EPI;14;comercial@protege.example
+10;Segurança Total Uniformes;00.000.434/0001-00;EPI;21;comercial@seguranca.example
+11;Calibra Metrologia;00.000.471/0001-99;Serviços;30;comercial@calibra.example
+12;Transvale Logística;00.000.508/0001-00;Serviços;15;comercial@transvale.example
+13;Datanet Informática;00.000.545/0001-99;TI;30;comercial@datanet.example
+14;Clean Industrial;00.000.582/0001-00;Serviços;15;comercial@clean.example
+15;Lubrimaq Óleos;00.000.619/0001-99;Peças e serviços;28;comercial@lubrimaq.example

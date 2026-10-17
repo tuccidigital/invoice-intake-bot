@@ -1,0 +1,20 @@
+Numero;FornecedorId;Fornecedor;CNPJ;DataAprovacao;Codigo;Descricao;Quantidade;PrecoUnitario;ValorTotalPedido
+COM-2026-000901;3;Colorbatch Masterbatch;00.000.175/0001-99;2026-10-12;MP-005;Masterbatch preto (saco 25 kg);2;406.92;813.84
+COM-2026-000902;13;Datanet Informática;00.000.545/0001-99;2026-10-11;TI-002;Coletor de dados com leitor;25;3517.97;87949.25
+COM-2026-000903;10;Segurança Total Uniformes;00.000.434/0001-00;2026-10-11;EP-004;Uniforme operacional (conjunto);40;132.68;5307.20
+COM-2026-000904;10;Segurança Total Uniformes;00.000.434/0001-00;2026-10-13;EP-003;Óculos de segurança incolor;2;12.86;8374.72
+COM-2026-000904;10;Segurança Total Uniformes;00.000.434/0001-00;2026-10-13;EP-004;Uniforme operacional (conjunto);60;139.15;8374.72
+COM-2026-000905;15;Lubrimaq Óleos;00.000.619/0001-99;2026-10-09;PC-005;Óleo hidráulico ISO 68 (balde 20 L);12;514.19;6170.28
+COM-2026-000906;13;Datanet Informática;00.000.545/0001-99;2026-10-02;TI-001;Notebook corporativo;25;5852.30;146307.50
+COM-2026-000907;8;Termocontrol Automação;00.000.360/0001-00;2026-10-05;PC-001;Resistência de cartucho 400 W;4;139.07;556.28
+COM-2026-000908;9;Protege EPI;00.000.397/0001-99;2026-10-10;EP-001;Luva de vaqueta (par);40;18.16;726.40
+COM-2026-000909;5;Caixaforte Papelão;00.000.249/0001-99;2026-10-06;EM-001;Caixa de papelão 40x30x30 (pacote 50);20;199.89;3997.80
+COM-2026-000910;3;Colorbatch Masterbatch;00.000.175/0001-99;2026-10-11;MP-004;Masterbatch branco (saco 25 kg);4;646.03;2584.12
+COM-2026-000911;7;Hidrauflex Componentes;00.000.323/0001-99;2026-10-09;PC-003;Válvula direcional hidráulica;5;1869.21;9346.05
+COM-2026-000912;11;Calibra Metrologia;00.000.471/0001-99;2026-10-06;SV-001;Calibração de paquímetro;12;86.19;1034.28
+COM-2026-000913;5;Caixaforte Papelão;00.000.249/0001-99;2026-10-10;EM-004;Palete PBR;5;68.09;340.45
+COM-2026-000914;9;Protege EPI;00.000.397/0001-99;2026-10-11;EP-002;Protetor auricular tipo plug (caixa 100);10;99.69;996.90
+COM-2026-000915;6;Moldtec Usinagem;00.000.286/0001-00;2026-10-07;PC-004;Bico de injeção (unidade);4;947.81;3791.24
+COM-2026-000916;13;Datanet Informática;00.000.545/0001-99;2026-10-11;TI-003;Licença anual de antivírus (usuário);12;97.18;1166.16
+COM-2026-000917;1;Polimax Resinas;00.000.101/0001-99;2026-10-07;MP-001;Polipropileno homopolímero (saco 25 kg);40;295.84;11833.60
+COM-2026-000918;2;Granplast Compostos;00.000.138/0001-00;2026-10-12;MP-003;ABS natural (saco 25 kg);60;402.73;24163.80

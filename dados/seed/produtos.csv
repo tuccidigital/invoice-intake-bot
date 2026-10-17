@@ -1,0 +1,26 @@
+Codigo;Descricao;Categoria;PrecoReferencia;FornecedorPadraoId
+MP-001;Polipropileno homopolímero (saco 25 kg);Matéria-prima;287.50;1
+MP-002;Polietileno de alta densidade (saco 25 kg);Matéria-prima;262.00;2
+MP-003;ABS natural (saco 25 kg);Matéria-prima;412.00;2
+MP-004;Masterbatch branco (saco 25 kg);Matéria-prima;655.00;3
+MP-005;Masterbatch preto (saco 25 kg);Matéria-prima;398.00;3
+EM-001;Caixa de papelão 40x30x30 (pacote 50);Embalagem;189.00;5
+EM-002;Saco plástico 60x80 (milheiro);Embalagem;245.00;4
+EM-003;Etiqueta térmica 100x50 (rolo 1000);Embalagem;52.00;4
+EM-004;Palete PBR;Embalagem;68.00;5
+PC-001;Resistência de cartucho 400 W;Peças;145.00;8
+PC-002;Termopar tipo J;Peças;58.00;8
+PC-003;Válvula direcional hidráulica;Peças;1890.00;7
+PC-004;Bico de injeção (unidade);Peças;960.00;6
+PC-005;Óleo hidráulico ISO 68 (balde 20 L);Peças;498.00;15
+EP-001;Luva de vaqueta (par);EPI;18.50;9
+EP-002;Protetor auricular tipo plug (caixa 100);EPI;96.00;9
+EP-003;Óculos de segurança incolor;EPI;12.90;10
+EP-004;Uniforme operacional (conjunto);EPI;139.00;10
+SV-001;Calibração de paquímetro;Serviço;85.00;11
+SV-002;Manutenção corretiva de molde (hora);Serviço;220.00;6
+SV-003;Frete dedicado regional;Serviço;1350.00;12
+SV-004;Limpeza industrial mensal;Serviço;4200.00;14
+TI-001;Notebook corporativo;TI;5890.00;13
+TI-002;Coletor de dados com leitor;TI;3450.00;13
+TI-003;Licença anual de antivírus (usuário);TI;95.00;13

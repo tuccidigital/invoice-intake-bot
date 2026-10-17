@@ -1,0 +1,7 @@
+**/bin/
+**/obj/
+*.user
+.vs/
+erros/
+fila-erp.json
+resultado-erp.json
